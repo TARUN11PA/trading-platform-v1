@@ -56,3 +56,9 @@ target/
 # OS files
 .DS_Store
 Thumbs.db
+target/
+.idea/
+*.iml
+
+.env
+application-local.properties
